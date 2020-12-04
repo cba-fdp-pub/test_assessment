@@ -26,5 +26,4 @@ Provide answers to the below points in regards to the scenario detailed in q3.sc
 - For each integration point, take one use case as an example to walkthrough end-to-end about testing strategy, steps, test data and report.
 
 ## Response Requirements
-- Test plan in word format and test data in any format of your choice.
-- Can add ppt as well if required.
+- Test plan in pdf format and test data in any format of your choice.
