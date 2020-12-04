@@ -1,5 +1,5 @@
 # test_assessment
-assessments for testing engineers. Responses to all questions should be sent to hiring representitives directly.
+Responses to all questions should be sent to hiring representitives directly.
 
 # Q1
 ## Problem Description
