@@ -7,7 +7,7 @@ Create a program in Java to parse the file q1.test_data and write as key/value p
 
 ## Response Requirements
 - Provide your code in plain text format to the hiring representative.
-- JDK requirement 1.8. Failure to compile and execution is a failure to this question.
+- Code needs to be successfully compiled and execution verified in JDK 1.8.0_265+.
 
 # Q2
 ## Problem Description
