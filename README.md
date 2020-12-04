@@ -10,12 +10,14 @@ Create a program in Java to parse the file q1.test_data and write as key/value p
 - JDK requirement 1.8. Failure to compile and execution is a failure to this question.
 
 # Q2
-## Create a selenium script with test cases covering different values for Home Loan repayment and validate the total loan repayment and total interest repayment. You can access https://www.commbank.com.au and then click on "Home Loan repayment calculator" to identify the online calculator.
+## Problem Description
+Create a selenium script with test cases covering different values for Home Loan repayment and validate the total loan repayment and total interest repayment. You can access https://www.commbank.com.au and then click on "Home Loan repayment calculator" to identify the online calculator.
 
 ## Response Requirements
 
 
 # Q3
+## Problem Description
 Provide answers to the below points in regards to the scenario detailed in q3.scenario.pdf:
 - Develop an end-to-end test plan to cover all integration points and layers
 - Detail test data management plan
