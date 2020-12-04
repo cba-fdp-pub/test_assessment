@@ -1,12 +1,12 @@
 # test_assessment
-Responses to all questions should be sent to hiring representitives directly.
+Responses to all questions should be shared from your own GitHub repositories.
 
 # Q1
 ## Problem Description
 Create a program in Java to parse the file q1.test_data and write as key/value pairs in Excel and CSV file.
 
 ## Response Requirements
-- Provide your code in plain text format to the hiring representative.
+- Source code and execution outcome are both required from your GitHub
 - Code needs to be successfully compiled and execution verified in JDK 1.8.0_265+.
 
 # Q2
