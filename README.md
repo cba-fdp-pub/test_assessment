@@ -4,6 +4,19 @@ Responses to all questions should be shared from your own GitHub repositories.
 # Q1
 ## Problem Description
 Create a program in Java to parse the file q1.test_data and write as key/value pairs in Excel and CSV file.
+## Note
+- SZ  [ represents the start of a transaction item (ex: Line1)  or you can take smh [record as the start of a transaction
+]SZ à represents the end of a transaction (ex: Line29)
+With this you should be able to identify how many transactions in this sample input file
+You will have to create separate csv/excel file for each transaction (Note: All the transactions might not have the same keys)
+
+- You can ignore any line which contains [record as this line doesn’t hold key or value
+With this while you parse the sample file you should get the below keys and values (listed only few for your understanding)
+smh_seg_id 000000
+smh_seg_version 00
+smh_msg_version 08.08.88
+smh_tran_type ABC
+
 
 ## Response Requirements
 - Source code and execution outcome are both required from your GitHub
